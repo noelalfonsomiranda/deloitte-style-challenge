@@ -2,6 +2,7 @@ export default [
   {
     title: "Beginner",
     cost: 15,
+    is_beginner: true,
     features: [
       "1000+ projects",
       "No transaction fees",
@@ -12,6 +13,7 @@ export default [
   {
     title: "Starter",
     cost: 16,
+    is_popular: true,
     features: [
       "1000+ projects",
       "No transaction fees",
